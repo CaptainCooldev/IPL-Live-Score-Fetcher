@@ -18,4 +18,4 @@ def display():
 
 while True:
     display()
-    time.sleep(10)
+    asyncio.sleep(10)
